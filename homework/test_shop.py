@@ -1,6 +1,3 @@
-"""
-Протестируйте классы из модуля homework/models.py
-"""
 import pytest
 
 from homework.models import Product, Cart
